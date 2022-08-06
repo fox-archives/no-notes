@@ -13,17 +13,14 @@ const Home: NextPage = () => {
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 
-			<footer className={styles.footer}>
+			<footer>
 				Authored by
-				<a
-					href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-					target="_blank"
-					rel="noopener noreferrer"
-				>
+				<a target="_blank" rel="noopener noreferrer">
 					Aaryan
 				</a>
-				<a>Edwin</a>
-				<a>Jubril</a>
+				<a target="_blank" rel="noopener noreferer">Edwin</a>
+								<a target="_blank" rel="noopener noreferer">Jubril</a>
+
 			</footer>
 		</div>
 	)
