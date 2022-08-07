@@ -1,0 +1,16 @@
+.timew {
+	display: flex;
+	flex-direction: column;
+	box-shadow: 10px solid #333;
+	justify-content: center;
+	align-items: center;
+}
+
+.span1 {
+	margin-inline-end: 3px;
+	font-size: 196px;
+}
+
+.span2 {
+	font-size: 64px;
+}
